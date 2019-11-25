@@ -15,7 +15,7 @@ def fourth_challenge
          attitude: "hot-headed"
         }
       ]
-   },
+   }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
@@ -24,7 +24,7 @@ def fourth_challenge
         #your hashes here!
         {name: "Steven",
          age: "30",
-         attitude: "30"
+         attitude: "confused"
        },
         {name: "Nurse",
          age: "44",
@@ -34,6 +34,6 @@ def fourth_challenge
    }
 }
 
-
+  
 
 end
